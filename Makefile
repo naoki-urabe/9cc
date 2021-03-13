@@ -1,4 +1,4 @@
-CFLAGS=c11 -g -static
+CFLAGS= -g -static
 9cc: 9cc.c
 
 test: 9cc
